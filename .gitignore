@@ -1,0 +1,4 @@
+api_codes.txt
+*.json
+*.hdf5
+*.DS_Store
